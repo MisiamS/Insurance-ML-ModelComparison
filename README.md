@@ -27,7 +27,7 @@ This repository presents a comparative study of machine learning models applied 
   - Classification: Accuracy, Precision, Recall, F1-score, ROC curves
   - Regression: MAE, MAE, R²
 
-## 🗃 Dataset
+## Dataset
 
 - **`insurance.csv`**
   - Features: age, sex, BMI, children, smoker, region
